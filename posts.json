@@ -1,0 +1,44 @@
+[
+    {
+        "userID":"",
+        "firstName":"Siyavuya",
+        "lastName":"Khohlani",
+        "Email":"Siyavuyakhohlani2@gmail.com",
+        "registrationDate":"10 June 2024"
+    },
+    {
+        "userID":"",
+        "firstName":"Avela",
+        "lastName":"Nikani",
+        "Email":"avelarnikani47@gmail.com",
+        "registrationDate":"23 February 2014"
+    },
+    {
+        "userID":"",
+        "userName":"Zenande",
+        "lastName":"Nocanda",
+        "Email":"zenandenocanda16@gmail.com",
+        "registrationDate":"15 September 2024"
+    },
+    {
+        "userID":"",
+        "userName":"Usisipho",
+        "lastName":"Mxinwa",
+        "Email":"usimxi711@gmail.com",
+        "registrationDate":"15 September 2024"
+    },
+    {
+        "userID":"",
+        "userName":"Asiphesona",
+        "lastName":"Dumzela",
+        "Email":"asiphesonadumzela31@gmail.com",
+        "registrationDate":"09 January 2024"
+    },
+    {
+        "userID":"",
+        "userName":"Sivuyile",
+        "lastName":"Mtwetwe",
+        "Email":"sivuyilemtwetwe@gmail.com",
+        "registrationDate":"09 January 2024"
+    }
+]
